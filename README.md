@@ -11,7 +11,8 @@ Skilled in Front-end Development, Algorithms, C (Programming Language), C++, and
 * ✉️  You can contact me at [raghavharsh068@gmail.com](mailto:raghavharsh068@gmail.com)
 * 🚀  I'm currently working on [Bots Fusion Ai](http://www.botsfusionai.com/)
 * 🧠  I'm learning Next.js and React native
-![](https://komarev.com/ghpvc/?username=your-github-HarshKumarraghav&color=bluevoilet)
+* 
+![](https://komarev.com/ghpvc/?username=your-github-HarshKumarraghav&color=blueviolet)
 
 <a href="https://www.twitter.com/_Harsh_raghav_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Harsh_raghav_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
