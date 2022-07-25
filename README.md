@@ -1,9 +1,9 @@
-![banner](./assets/banner1.gif)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harsh Raghav
 =============================
 
-intern @BotsfusionAI
+![banner](./assets/banner1.gif)
+
+intern @BotsFusionAi
 --------------------
 
 Skilled in Front-end Development, Algorithms, C (Programming Language), C++, and Video Editing. Strong media and communication professional with a Bachelor's degree focused in Information Technology from Guatum budda University.
